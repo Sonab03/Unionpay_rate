@@ -1,0 +1,10 @@
+{
+  "source": "UnionPay International",
+  "source_url": "https://www.unionpayintl.com/upload/jfimg/20260831.json",
+  "curDate": "2026-08-31",
+  "transCur": "JPY",
+  "baseCur": "CNY",
+  "rateData": 0.042255,
+  "jpy_10000_cny": 422.55,
+  "fetched_at": "2026-08-31T20:30:45.866054+09:00"
+}
