@@ -1,2 +1,4 @@
 # Unionpay_rate
-Check UnionPay rate every work day
+Automatically check UnionPay rate every work day
+
+Can use with AI Bot
